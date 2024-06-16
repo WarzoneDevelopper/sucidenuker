@@ -1,0 +1,2 @@
+# sucidenuker
+Suicide discord nuker
